@@ -1,0 +1,10 @@
+<div class="w-[45%]">
+              <form action="" class="">
+                <input type="text" placeholder="Your Name" class="text-[#707070] poppins-font input input-bordered w-[570px] bg-[#F3F3F3] border-none h-[72px] pl-6 py-6" />
+                <input type="text" placeholder="Your Email" class="my-8 text-[#707070] poppins-font input input-bordered w-[570px] bg-[#F3F3F3] border-none h-[72px] pl-6 py-6" />
+                  
+                <input type="text" placeholder="Subject" class="text-[#707070] poppins-font input input-bordered w-[570px] bg-[#F3F3F3] border-none h-[72px] pl-6 py-6" />
+
+                <textarea  class="text-[#707070] poppins-font  w-[570px] bg-[#F3F3F3] border-none h-[162px] pl-6 py-6"></textarea>
+              </form>
+            </div>
